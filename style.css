@@ -143,7 +143,7 @@
     text-align: right;
   
     /* outline is like border, but on the outside of the box instead of inside */
-    outline: 2px dashed var(--gin);
+    outline: 2px solid var(--gin);
     outline-offset: -2px;
     transition: all 0.5s ease-in-out;
   }
