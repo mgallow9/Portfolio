@@ -176,7 +176,9 @@ transform: scale(1.05);
     
   }
   
-
+  .resume-body {
+    
+  }
   
   /* set an outer and inner drop shadow on the card to create a glowing effect on hover */
   .code-card:hover,
